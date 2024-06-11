@@ -255,10 +255,7 @@ class Platinum(Gold):
         else:
             print("ERROR: Insufficient balance")
 
-#---------------------------------------------------------
-#第二題開始：
-#---------------------------------------------------------
-#第二題開始：
+
 class HotelMember:
     init_cid = 0  # Assuming this is needed for ID generation
 
